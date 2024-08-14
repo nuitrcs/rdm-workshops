@@ -8,6 +8,8 @@ All sessions are on Wednesdays at 10 am Central.
 1. ~~July 24th~~: [Advanced Topics in Globus](https://planitpurple.northwestern.edu/event/616762) 
 1. ~~July 31st~~: [Introduction to Cloud Storage at Northwestern](https://planitpurple.northwestern.edu/event/616763)
 1. ~~August 7th~~: [Using SharePoint for Research](https://planitpurple.northwestern.edu/event/616764)
-1. August 14th: [Using PowerAutomate to Create SharePoint Workflows](https://planitpurple.northwestern.edu/event/616765) 
+1. ~~August 14th~~: [Using PowerAutomate to Create SharePoint Workflows](https://planitpurple.northwestern.edu/event/616765)
 
-Register for more RCDS workshops here: https://planitpurple.northwestern.edu/calendar/4661
+The Summer wotkshop series has ended. We will be running a similar series in the Fall.
+
+Look for more RCDS workshops here: https://planitpurple.northwestern.edu/calendar/4661
