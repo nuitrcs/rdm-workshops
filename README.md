@@ -1,15 +1,13 @@
 # Research data management workshops
 Workshop materials for Research Data Management workshops by Research Computing and Data Services.
 
-## Summer 2024 Schedule
+## Fall 2024 Schedule
 All sessions are on Wednesdays at 10 am Central.
-1. ~~July 10th~~: [Choosing Data Storage at Northwestern](https://planitpurple.northwestern.edu/event/616760)
-1. ~~July 17th~~: [Introduction to Globus for Research Data Management](https://planitpurple.northwestern.edu/event/616761)
-1. ~~July 24th~~: [Advanced Topics in Globus](https://planitpurple.northwestern.edu/event/616762) 
-1. ~~July 31st~~: [Introduction to Cloud Storage at Northwestern](https://planitpurple.northwestern.edu/event/616763)
-1. ~~August 7th~~: [Using SharePoint for Research](https://planitpurple.northwestern.edu/event/616764)
-1. ~~August 14th~~: [Using PowerAutomate to Create SharePoint Workflows](https://planitpurple.northwestern.edu/event/616765)
-
-The Summer wotkshop series has ended. We will be running a similar series in the Fall.
+1. October 2nd: [Choosing Data Storage at Northwestern](https://planitpurple.northwestern.edu/event/619119)
+2. October 9th: [Introduction to Globus for Research Data Management](https://planitpurple.northwestern.edu/event/619120)
+3. October 16th: [Using the Globus Command Line Interface](https://planitpurple.northwestern.edu/event/619121)
+4. October 30th: [Introduction to Cloud Storage at Northwestern](https://planitpurple.northwestern.edu/event/619122)
+5. November 6th: [Using SharePoint for Research](https://planitpurple.northwestern.edu/event/619123)
+6. November 13th: [Using PowerAutomate to Create SharePoint Workflows](https://planitpurple.northwestern.edu/event/619124)
 
 Look for more RCDS workshops here: https://planitpurple.northwestern.edu/calendar/4661
