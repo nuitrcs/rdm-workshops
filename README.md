@@ -10,4 +10,6 @@ All sessions are on Wednesdays at 10 am Central.
 5. ~~November 6th~~: [Using SharePoint for Research](https://planitpurple.northwestern.edu/event/619123)
 6. ~~November 13th~~: [Using PowerAutomate to Create SharePoint Workflows](https://planitpurple.northwestern.edu/event/619124)
 
+The Fall workshop series has ended. We will be running a similar series in Winter 2025
+
 Look for more RCDS workshops here: https://planitpurple.northwestern.edu/calendar/4661
