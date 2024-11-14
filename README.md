@@ -8,6 +8,6 @@ All sessions are on Wednesdays at 10 am Central.
 3. ~~October 16th~~: [Using the Globus Command Line Interface](https://planitpurple.northwestern.edu/event/619121)
 4. ~~October 30th~~: [Introduction to Cloud Storage at Northwestern](https://planitpurple.northwestern.edu/event/619122)
 5. ~~November 6th~~: [Using SharePoint for Research](https://planitpurple.northwestern.edu/event/619123)
-6. November 13th: [Using PowerAutomate to Create SharePoint Workflows](https://planitpurple.northwestern.edu/event/619124)
+6. ~~November 13th~~: [Using PowerAutomate to Create SharePoint Workflows](https://planitpurple.northwestern.edu/event/619124)
 
 Look for more RCDS workshops here: https://planitpurple.northwestern.edu/calendar/4661
