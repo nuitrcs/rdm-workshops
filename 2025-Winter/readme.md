@@ -1,7 +1,7 @@
 # Research data management workshops
 Workshop materials for Research Data Management workshops by Research Computing and Data Services (RCDS).
 
-## Winter 2025 Schedule has now ended.
+## Winter 2025 Sessions
 All sessions are on Wednesdays at 10 am Central.
 1. January 15th: [Choosing Data Storage at Northwestern]
 2. January 22nd: [Introduction to Globus for Research Data Management]
@@ -10,5 +10,6 @@ All sessions are on Wednesdays at 10 am Central.
 5. February 12th: [Using SharePoint for Research]
 6. February 19th: [Using PowerAutomate to Create SharePoint Workflows]
   
-  
+The Winter 2025 workshop series has ended. We will be running a similar series in the Spring.
+
 Look for more RCDS workshops here on the [RCDS Events Calendar](https://planitpurple.northwestern.edu/calendar/4661).
