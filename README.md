@@ -4,7 +4,7 @@ Workshop materials for Research Data Management workshops by Research Computing 
 ## Spring 2025 Schedule
 All sessions are on Wednesdays at 10 am Central.
 1. ~~May 7th: [Spring Cleaning—Efficiently Managing Your Research Data Storage]~~
-2. May 14th: [Practical Applications—How Northwestern Researchers Use Globus](https://planitpurple.northwestern.edu/event/626618)
+2. ~~May 14th: [Practical Applications—How Northwestern Researchers Use Globus]~~
 3. May 21st: [Managing Research Data in SharePoint Libraries](https://planitpurple.northwestern.edu/event/626619)
 
 For one-on-one consultations, please contact us by filling out [this form.](https://services.northwestern.edu/TDClient/30/Portal/Requests/ServiceDet?ID=92)
