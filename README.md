@@ -4,7 +4,7 @@ Workshop materials for Research Data Management workshops by Research Computing 
 Our workshops for Fall 2025 have concluded. 
 
 We will be teaching the following workshops in Winter 2026:
-- February 11: [**Smart Data Management: Strategies for Efficient Research Workflows**](https://planitpurple.northwestern.edu/event/636690)
+- February 11: ~~[**Smart Data Management: Strategies for Efficient Research Workflows**]~~
 - February 18: [**Integrating Globus into Your Research Data Management Workflows**](https://planitpurple.northwestern.edu/event/636691)
 - February 25: [**Archival Data Storage in the Cloud**](https://planitpurple.northwestern.edu/event/636692)
 
