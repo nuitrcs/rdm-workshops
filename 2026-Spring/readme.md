@@ -1,7 +1,7 @@
 # Research data management workshops
 Workshop materials for Research Data Management workshops by Research Computing and Data Services (RCDS).
 
-## Spring 2025 Sessions
+## Spring 2026 Sessions
 All sessions are on Wednesdays at 10 am Central.
 1. April 30th: Spring Cleaning 101: Storage Management 
 2. May 6th: Spring Cleaning 102: File Organization Strategies 
