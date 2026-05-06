@@ -2,8 +2,8 @@
 Workshop materials for Research Data Management workshops by Research Computing and Data Services (RCDS).
 
 We are teaching the following workshops this Spring 2026:
-- April 29: ~~[**Spring Cleaning 101: Storage Management**]~~
-- May 6: [**Spring Cleaning 102: File Organization Strategies**](https://www.eventbrite.com/e/spring-cleaning-102-file-organization-strategies-virtual-tickets-1980583800463?aff=oddtdtcreator)
+- April 29: ~~**Spring Cleaning 101: Storage Management**~~
+- May 6: ~~**Spring Cleaning 102: File Organization Strategies**~~
 - May 20: [**Archival Data Storage in the Cloud**](https://www.eventbrite.com/e/archival-data-storage-in-the-cloud-virtual-tickets-1980588887679?aff=oddtdtcreator)
 
 Registration links are live! All workshops are conducted on Wednesday 10 am - 11 am.
